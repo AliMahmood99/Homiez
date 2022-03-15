@@ -6,7 +6,7 @@
 - Customer can view the menu of different products and then select food item of his/her choice to the shopping cart after login.
 - Customer must fill a form providing his/her name, number, address, city, and payment method (cash on delivery or Online payment) after he/she checkout from the shopping cart.
 
-> **The app has three users:
+> **The app has three users**:
 1. **Customer**: Customer has created a new account and can view the menu of different products and then select food item of his /her choice to the shopping cart.
 2. **Delivery**: Delivery is responsible for pick up and deliver order to customer 
 
