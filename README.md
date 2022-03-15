@@ -47,6 +47,7 @@
 <img width="200" alt="Screenshot 2022-03-15 at 4 22 58 PM" src="https://user-images.githubusercontent.com/74264180/158443671-c3531c76-9d06-4e9c-a241-cde432e0164b.png">
 
 
+
 ## Cart
 <img width="200" alt="Screenshot 2022-03-15 at 4 23 17 PM" src="https://user-images.githubusercontent.com/74264180/158443718-0a7d06a4-3919-44fc-92c8-7648c80081a2.png">
 
@@ -66,7 +67,7 @@
 
 
 ## Shipping Information
-<img width="200" alt="Screenshot 2022-03-15 at 4 24 55 PM" src="https://user-images.githubusercontent.com/74264180/158443885-a5aa2944-81b9-4074-8e83-52740b68dbca.png">
+<img width="200" alt="Screenshot 2022-03-15 at 4 24 55 PM" src="https://user-images.githubusercontent.com/74264180/158443885-a5aa2944-81b9-4074-8e83-52740b68dbca.png"> <img width="200" alt="Screenshot 2022-03-15 at 8 21 05 PM" src="https://user-images.githubusercontent.com/74264180/158445975-e3af4bc7-84fc-4d8b-8352-26558d55455f.png">
 
 
 ## Online Payment
