@@ -12,7 +12,7 @@
 
 ## Which design pattern I used?
 
-> **VIPER**:
+> **MVVM**:
 
 ### **MVVM** offers some advantages over MVC:
 
