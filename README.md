@@ -40,7 +40,9 @@
 
 
 ## favourites
-<img width="200" alt="Screenshot 2022-03-15 at 4 22 37 PM" src="https://user-images.githubusercontent.com/74264180/158443612-b49c9b39-3c4b-4919-bdc3-176682630baf.png"> <img width="200" alt="Screenshot 2022-03-15 at 8 05 18 PM" src="https://user-images.githubusercontent.com/74264180/158443644-813a199e-f102-4053-bc30-21730f3648f3.png">
+<img width="200" alt="Screenshot 2022-03-15 at 4 22 37 PM" src="https://user-images.githubusercontent.com/74264180/158443612-b49c9b39-3c4b-4919-bdc3-176682630baf.png"> <img width="200" alt="Screenshot 2022-03-15 at 8 29 37 PM" src="https://user-images.githubusercontent.com/74264180/158447291-b47effd7-de53-45f3-8758-073b46a048ce.png"> 
+
+
 
 
 ## Category Products 
@@ -80,7 +82,7 @@
 
 
 ## Search
-<img width="200" alt="Screenshot 2022-03-15 at 8 13 44 PM" src="https://user-images.githubusercontent.com/74264180/158444643-934a3327-28e7-46e4-924c-54663edcd97a.png">
+<img width="200" alt="Screenshot 2022-03-15 at 8 29 53 PM" src="https://user-images.githubusercontent.com/74264180/158447220-b520e1cf-0d47-4001-a852-ed8281daaaa8.png">
 
 
 ## Edit Profile 
