@@ -28,8 +28,7 @@
 
 
 ## SignIn and SignUp
-<img width="200" alt="Screenshot 2022-03-15 at 4 19 52 PM" src="https://user-images.githubusercontent.com/74264180/158442558-d39c2fd3-7df8-4990-8e06-96290f27a14b.png">
-<img width="200" alt="Screenshot 2022-03-15 at 4 20 00 PM" src="https://user-images.githubusercontent.com/74264180/158442641-f9e75150-78ac-418f-9167-0dcca4cb0322.png">
+<img width="200" alt="Screenshot 2022-03-15 at 4 19 52 PM" src="https://user-images.githubusercontent.com/74264180/158442558-d39c2fd3-7df8-4990-8e06-96290f27a14b.png"> <img width="200" alt="Screenshot 2022-03-15 at 4 20 00 PM" src="https://user-images.githubusercontent.com/74264180/158442641-f9e75150-78ac-418f-9167-0dcca4cb0322.png">
 
 
 ## User Home Screen  
@@ -37,14 +36,11 @@
 
 
 ## Product Details
-<img width="200" alt="Screenshot 2022-03-15 at 4 21 16 PM" src="https://user-images.githubusercontent.com/74264180/158442814-772468c4-66e7-4243-9092-4a950712919e.png">
-<img width="200" alt="Screenshot 2022-03-15 at 4 21 38 PM" src="https://user-images.githubusercontent.com/74264180/158442821-337ce366-7bfb-4649-8583-d0ff86806c9a.png">
-<img width="200" alt="Screenshot 2022-03-15 at 4 22 30 PM" src="https://user-images.githubusercontent.com/74264180/158442828-58dad174-ab38-4278-8fd0-0db8359ce23f.png">
+<img width="200" alt="Screenshot 2022-03-15 at 4 21 16 PM" src="https://user-images.githubusercontent.com/74264180/158442814-772468c4-66e7-4243-9092-4a950712919e.png"> <img width="200" alt="Screenshot 2022-03-15 at 4 21 38 PM" src="https://user-images.githubusercontent.com/74264180/158442821-337ce366-7bfb-4649-8583-d0ff86806c9a.png"> <img width="200" alt="Screenshot 2022-03-15 at 4 22 30 PM" src="https://user-images.githubusercontent.com/74264180/158442828-58dad174-ab38-4278-8fd0-0db8359ce23f.png">
 
 
 ## favourites
-<img width="200" alt="Screenshot 2022-03-15 at 4 22 37 PM" src="https://user-images.githubusercontent.com/74264180/158443612-b49c9b39-3c4b-4919-bdc3-176682630baf.png">
-<img width="200" alt="Screenshot 2022-03-15 at 8 05 18 PM" src="https://user-images.githubusercontent.com/74264180/158443644-813a199e-f102-4053-bc30-21730f3648f3.png">
+<img width="200" alt="Screenshot 2022-03-15 at 4 22 37 PM" src="https://user-images.githubusercontent.com/74264180/158443612-b49c9b39-3c4b-4919-bdc3-176682630baf.png"> <img width="200" alt="Screenshot 2022-03-15 at 8 05 18 PM" src="https://user-images.githubusercontent.com/74264180/158443644-813a199e-f102-4053-bc30-21730f3648f3.png">
 
 
 ## Category Products 
@@ -91,9 +87,7 @@
 
 ## Setting 
 <img width="200" alt="Screenshot 2022-03-15 at 4 23 29 PM" src="https://user-images.githubusercontent.com/74264180/158443994-8a3e3821-d0dd-4a15-ae42-49a05b717a<img width="200" alt="Screenshot 2022-03-15 at 4 23 37 PM" src="https://user-images.githubusercontent.com/74264180/158444032-b34a185b-fd17-465d-a95f-9b56e6935343.png">
-1b.png">
-![Uploading Screenshot 2022-03-15 at 4.23.37 PM.png…]()
-<img width="200" alt="Screenshot 2022-03-15 at 4 23 51 PM" src="https://user-images.githubusercontent.com/74264180/158444055-21f3fb0c-c671-421b-8d0e-306421c78523.png">
+1b.png"> ![Uploading Screenshot 2022-03-15 at 4.23.37 PM.png…]() <img width="200" alt="Screenshot 2022-03-15 at 4 23 51 PM" src="https://user-images.githubusercontent.com/74264180/158444055-21f3fb0c-c671-421b-8d0e-306421c78523.png">
 
 
 
@@ -110,9 +104,7 @@
 
 ## Setting 
 <img width="200" alt="Screenshot 2022-03-15 at 4 23 29 PM" src="https://user-images.githubusercontent.com/74264180/158443994-8a3e3821-d0dd-4a15-ae42-49a05b717a<img width="200" alt="Screenshot 2022-03-15 at 4 23 37 PM" src="https://user-images.githubusercontent.com/74264180/158444032-b34a185b-fd17-465d-a95f-9b56e6935343.png">
-1b.png">
-![Uploading Screenshot 2022-03-15 at 4.23.37 PM.png…]()
-<img width="200" alt="Screenshot 2022-03-15 at 4 23 51 PM" src="https://user-images.githubusercontent.com/74264180/158444055-21f3fb0c-c671-421b-8d0e-306421c78523.png">
+1b.png"> ![Uploading Screenshot 2022-03-15 at 4.23.37 PM.png…]() <img width="200" alt="Screenshot 2022-03-15 at 4 23 51 PM" src="https://user-images.githubusercontent.com/74264180/158444055-21f3fb0c-c671-421b-8d0e-306421c78523.png">
 
 
 
