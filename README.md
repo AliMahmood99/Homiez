@@ -18,29 +18,107 @@
 - A view model is much easier to test than a view controller. You end up testing business logic without having to worry about view implementations.
 
 # Screenshots
-## Who are you
-![Simulator Screen Shot - iPhone 11 - 2022-03-06 at 19 15 03](https://user-images.githubusercontent.com/74264180/156936186-6c7bb711-2ae4-4d8d-a837-d769a038a05c.png)
+## Splash Screen 
+<img width="200" alt="Screenshot 2022-03-15 at 4 19 28 PM" src="https://user-images.githubusercontent.com/74264180/158442472-7f5eb15e-6f8e-4a56-9d0d-961ea61b685a.png">
 
-## Home Page 
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 00 34](https://user-images.githubusercontent.com/74264180/157110989-bb80765b-8ac3-49d8-a152-a1da86d8ae76.png)
 
-## Messages
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 04 00](https://user-images.githubusercontent.com/74264180/157110012-23cffcf9-82be-421c-8760-8ffaf4e64721.png) ![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 04 06](https://user-images.githubusercontent.com/74264180/157110031-5193c827-46ec-48bf-b2e1-4b0203682748.png)
+## Choose User
+<img width="200" alt="Screenshot 2022-03-15 at 4 19 35 PM" src="https://user-images.githubusercontent.com/74264180/158442498-8533bc0f-2a3d-44c4-a3ef-e265f6cbb146.png">
 
-## Search 
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 05 09](https://user-images.githubusercontent.com/74264180/157110096-ab686b6e-7ac3-4036-bf91-56acbb409d32.png)
 
-## Make a request  
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 09 28](https://user-images.githubusercontent.com/74264180/157110301-87ec775c-f741-42a9-82a4-8ebe2f21e2c7.png)
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 09 36](https://user-images.githubusercontent.com/74264180/157110324-d4712632-a548-4200-86bc-98450317ae76.png)
+
+## SignIn and SignUp
+<img width="200" alt="Screenshot 2022-03-15 at 4 19 52 PM" src="https://user-images.githubusercontent.com/74264180/158442558-d39c2fd3-7df8-4990-8e06-96290f27a14b.png">
+<img width="200" alt="Screenshot 2022-03-15 at 4 20 00 PM" src="https://user-images.githubusercontent.com/74264180/158442641-f9e75150-78ac-418f-9167-0dcca4cb0322.png">
+
+
+## User Home Screen  
+<img width="200" alt="Screenshot 2022-03-15 at 4 20 51 PM" src="https://user-images.githubusercontent.com/74264180/158442698-8d63e50b-baf7-4b28-8090-8952336039e4.png">
+
+
+## Product Details
+<img width="200" alt="Screenshot 2022-03-15 at 4 21 16 PM" src="https://user-images.githubusercontent.com/74264180/158442814-772468c4-66e7-4243-9092-4a950712919e.png">
+<img width="200" alt="Screenshot 2022-03-15 at 4 21 38 PM" src="https://user-images.githubusercontent.com/74264180/158442821-337ce366-7bfb-4649-8583-d0ff86806c9a.png">
+<img width="200" alt="Screenshot 2022-03-15 at 4 22 30 PM" src="https://user-images.githubusercontent.com/74264180/158442828-58dad174-ab38-4278-8fd0-0db8359ce23f.png">
+
+
+## favourites
+<img width="200" alt="Screenshot 2022-03-15 at 4 22 37 PM" src="https://user-images.githubusercontent.com/74264180/158443612-b49c9b39-3c4b-4919-bdc3-176682630baf.png">
+<img width="200" alt="Screenshot 2022-03-15 at 8 05 18 PM" src="https://user-images.githubusercontent.com/74264180/158443644-813a199e-f102-4053-bc30-21730f3648f3.png">
+
+
+## Category Products 
+<img width="200" alt="Screenshot 2022-03-15 at 4 22 58 PM" src="https://user-images.githubusercontent.com/74264180/158443671-c3531c76-9d06-4e9c-a241-cde432e0164b.png">
+
+
+## Cart
+<img width="200" alt="Screenshot 2022-03-15 at 4 23 17 PM" src="https://user-images.githubusercontent.com/74264180/158443718-0a7d06a4-3919-44fc-92c8-7648c80081a2.png">
+
+
+## Order Details
+<img width="200" alt="Screenshot 2022-03-15 at 4 24 10 PM" src="https://user-images.githubusercontent.com/74264180/158443807-4630701b-6983-4a41-9e6b-ac6bb452df45.png">
+
+
+
+## Choose home delivery or restaurant pickup
+<img width="200" alt="Screenshot 2022-03-15 at 4 24 31 PM" src="https://user-images.githubusercontent.com/74264180/158443848-166334bc-ecaf-447e-9590-d6e3e2268e46.png">
+
+
+
+## Choose payment method
+<img width="200" alt="Screenshot 2022-03-15 at 4 24 38 PM" src="https://user-images.githubusercontent.com/74264180/158443868-a5b68872-4fd1-4a70-a676-5eb2c39dc093.png">
+
+
+## Shipping Information
+<img width="200" alt="Screenshot 2022-03-15 at 4 24 55 PM" src="https://user-images.githubusercontent.com/74264180/158443885-a5aa2944-81b9-4074-8e83-52740b68dbca.png">
+
+
+## Online Payment
+<img width="200" alt="Screenshot 2022-03-15 at 4 25 13 PM" src="https://user-images.githubusercontent.com/74264180/158443916-3a132050-3255-4531-bfe0-a22f204af3dd.png">
+
+
+## Congratulation
+<img width="200" alt="Screenshot 2022-03-15 at 4 25 21 PM" src="https://user-images.githubusercontent.com/74264180/158443945-9431d791-cf88-4fde-80dd-2dbb14881979.png">
+
+
+
+## Search
+<img width="200" alt="Screenshot 2022-03-15 at 8 13 44 PM" src="https://user-images.githubusercontent.com/74264180/158444643-934a3327-28e7-46e4-924c-54663edcd97a.png">
+
+
+## Edit Profile 
+<img width="200" alt="Screenshot 2022-03-15 at 7 00 51 PM" src="https://user-images.githubusercontent.com/74264180/158444151-d59ffd0d-763a-4e29-a620-4b83fc320d21.png">
 
 ## Setting 
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 05 50](https://user-images.githubusercontent.com/74264180/157110365-864202b2-28ba-47f0-9db4-4f55207ecb83.png)
+<img width="200" alt="Screenshot 2022-03-15 at 4 23 29 PM" src="https://user-images.githubusercontent.com/74264180/158443994-8a3e3821-d0dd-4a15-ae42-49a05b717a<img width="200" alt="Screenshot 2022-03-15 at 4 23 37 PM" src="https://user-images.githubusercontent.com/74264180/158444032-b34a185b-fd17-465d-a95f-9b56e6935343.png">
+1b.png">
+![Uploading Screenshot 2022-03-15 at 4.23.37 PM.png…]()
+<img width="200" alt="Screenshot 2022-03-15 at 4 23 51 PM" src="https://user-images.githubusercontent.com/74264180/158444055-21f3fb0c-c671-421b-8d0e-306421c78523.png">
 
-## Profile 
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 05 48](https://user-images.githubusercontent.com/74264180/157110390-a6ff5ea5-21a9-4a3c-b56a-46232fce862c.png)
 
-## Review
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 16 00](https://user-images.githubusercontent.com/74264180/157111226-1ac78064-4448-44a1-ba59-2a58a0a6717d.png)
-![Simulator Screen Shot - iPhone 11 - 2022-03-07 at 22 16 03](https://user-images.githubusercontent.com/74264180/157111240-8a5c0d0a-d9dd-4b46-818c-59550d1f3a50.png)
+
+
+# Delivery 
+
+## Delivery Home Screen  
+<img width="200" alt="Screenshot 2022-03-15 at 7 00 37 PM" src="https://user-images.githubusercontent.com/74264180/158444126-3cc0f92a-94a6-476c-8a34-ce85c48b4b67.png">
+
+
+## Edit Profile 
+<img width="200" alt="Screenshot 2022-03-15 at 7 00 51 PM" src="https://user-images.githubusercontent.com/74264180/158444151-d59ffd0d-763a-4e29-a620-4b83fc320d21.png">
+
+
+## Setting 
+<img width="200" alt="Screenshot 2022-03-15 at 4 23 29 PM" src="https://user-images.githubusercontent.com/74264180/158443994-8a3e3821-d0dd-4a15-ae42-49a05b717a<img width="200" alt="Screenshot 2022-03-15 at 4 23 37 PM" src="https://user-images.githubusercontent.com/74264180/158444032-b34a185b-fd17-465d-a95f-9b56e6935343.png">
+1b.png">
+![Uploading Screenshot 2022-03-15 at 4.23.37 PM.png…]()
+<img width="200" alt="Screenshot 2022-03-15 at 4 23 51 PM" src="https://user-images.githubusercontent.com/74264180/158444055-21f3fb0c-c671-421b-8d0e-306421c78523.png">
+
+
+
+
+
+
+
+
 
