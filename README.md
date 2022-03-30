@@ -2,7 +2,7 @@
 
 
 > **Product description**:
-- This product is a mobile application service system that will allow its users to register and then select the food items of their choice from the menu list and order food online.This application is allowed to user to give feedback and pay payments of order after there statsification.
+- This product is a mobile application service system that will allow its users to register and then select the food items of their choice from the menu list and order food online.This application is allowed to user to give feedback and pay payments of order after there satisfaction.
 - Customer can view the menu of different products and then select food item of his/her choice to the shopping cart after login.
 - Customer must fill a form providing his/her name, number, address, city, and payment method (cash on delivery or Online payment) after he/she checkout from the shopping cart.
 
