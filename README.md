@@ -2,13 +2,13 @@
 
 
 > **Product description**:
-- This product is a mobile application service system that will allow its users to register and then select the food items of their choice from the menu list and order food online.This application is allowed to user to give feedback and pay payments of order after there satisfaction.
-- Customer can view the menu of different products and then select food item of his/her choice to the shopping cart after login.
+- This product is a mobile application service system that will allow its users to register and then select the food items of their choice from the menu list and order food online. This application is allowed users to give feedback and pay for orders after their satisfaction..
+- Customer can view the menu of different products and then select a food item of his/her choice to the shopping cart after login.
 - Customer must fill a form providing his/her name, number, address, city, and payment method (cash on delivery or Online payment) after he/she checkout from the shopping cart.
 
 > **The app has Two users**:
-1. **Customer**: Customer has created a new account and can view the menu of different products and then select food item of his /her choice to the shopping cart.
-2. **Delivery**: Delivery is responsible for pick up and deliver order to customer 
+1. **Customer**: The customer can create a new account and can view the list of different products and then select the food item of his choice and put it in the shopping cart.
+2. **Delivery**: Delivery is responsible for picking up and delivering orders to customers. 
 
 ## Which design pattern I used?
 
